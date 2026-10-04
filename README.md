@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Mirage Cybertech Portfolio Banner.png" width="100%" alt="Mirage Banner">
+<img src="./assets/Futuristic Mirage Developer Portfolio Banner.png" width="100%" alt="Mirage Banner">
 
 # SANYAM PATWARI
 
