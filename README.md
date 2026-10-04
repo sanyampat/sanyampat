@@ -1,32 +1,27 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%">
+<img src="./assets/banner.svg" width="100%" alt="Mirage Banner">
+
+# SANYAM PATWARI
+
+### `SOFTWARE ENGINEER // DATA // SECURITY // AI`
 
 <br>
 
-# `SANYAM PATWARI`
+<a href="https://github.com/sanyampat">
+  <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-### `SYSTEM DEVELOPER // DATA // SECURITY // CREATIVE`
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanyampat)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
----
-
-## `01 // OPERATIVE PROFILE`
+<br><br>
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  NAME        SANYAM PATWARI                              │
-│  ROLE        COMPUTER SCIENCE ENGINEER                   │
-│  STATUS      BUILDING                                    │
-│                                                          │
-│  FOCUS       SOFTWARE / DATA / SECURITY / AI             │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                    M I R A G E                               │
+│                                                              │
+│        BUILDING SYSTEMS • BREAKING SYSTEMS • LEARNING        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
