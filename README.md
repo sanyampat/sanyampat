@@ -11,7 +11,7 @@
 <a href="https://github.com/sanyampat">
   <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sanyam-patawari-48323227b/">
   <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
