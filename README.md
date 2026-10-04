@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sanyampat/sanyampat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.svg" width="100%">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# `SANYAM PATWARI`
+
+### `SYSTEM DEVELOPER // DATA // SECURITY // CREATIVE`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanyampat)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+---
+
+## `01 // OPERATIVE PROFILE`
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  NAME        SANYAM PATWARI                              │
+│  ROLE        COMPUTER SCIENCE ENGINEER                   │
+│  STATUS      BUILDING                                    │
+│                                                          │
+│  FOCUS       SOFTWARE / DATA / SECURITY / AI             │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
